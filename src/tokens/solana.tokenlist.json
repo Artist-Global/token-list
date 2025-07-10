@@ -14,17 +14,6 @@
       "tags": [
         "utility-token"
       ]
-    },
-    {
-      "chainId": 101,
-      "address": "5wkpp3YvA3cwKsAovAiq2RzQwZvye1oAPw42TPC2nnms",
-      "symbol": "ARBG",
-      "name": "Arabian Gulf",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/Artist-Global/arbg/main/582962f2-527f-4351-b99a-1b6e67ab121a.png",
-      "tags": [
-        "utility-token"
-      ]
     }
   ]
 }
